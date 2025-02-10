@@ -11,7 +11,7 @@ import json
 load_dotenv()
 
 # Configure Gemini API
-api_key = "AIzaSyDGcEK-0nno_80QYBy-__6i8kkSIHYQ58g"
+api_key = "your api"
 if not api_key:
     st.error("API key is missing. Please set the GOOGLE_API_KEY.")
 else:
