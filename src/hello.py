@@ -1,1 +1,1 @@
-p
+printf("Hello world")
